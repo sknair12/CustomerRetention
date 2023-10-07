@@ -14,7 +14,7 @@ Deep Learning Model: A deep neural network model is implemented using TensorFlow
 Gradient Analysis: Gradient analysis is performed to understand the impact of individual features on model predictions. This helps identify influential features.
 Feature Sensitivity Analysis: The code analyzes how changes in specific feature values affect predictions, allowing for sensitivity analysis.
 
-****How to Use****
+**How to Use**
 
 ### Prerequisites
 
