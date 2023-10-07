@@ -1,8 +1,20 @@
-**Insurance Customer Retention Analysis**
+# Insurance Customer Retention Analysis
 
 This code performs customer retention analysis using a dataset from Kaggle, which is available at https://www.kaggle.com/code/merishnasuwal/merge-churn-analysis-data-for-auto-insurance/input. Customer retention analysis is essential for insurance companies to understand and predict customer behavior.
 
-**Overview**
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+
+### Introduction
 
 The code performs the following tasks:
 
@@ -25,7 +37,7 @@ Feature Sensitivity Analysis: The code analyzes how changes in specific feature 
 ### Installation
 
 1. Clone this repository to your local machine using `git clone`.
-2. Install the required dependencies 
+2. Install the required dependencies mentioned in requirements.txt
 
 ### Dataset
 
