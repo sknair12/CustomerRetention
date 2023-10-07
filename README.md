@@ -37,7 +37,7 @@ Feature Sensitivity Analysis: The code analyzes how changes in specific feature 
 ### Installation
 
 1. Clone this repository to your local machine using `git clone`.
-2. Install the required dependencies mentioned in requirements.txt
+2. Install the required dependencies mentioned in [requirements.txt](requirements.txt)
 
 ### Dataset
 
