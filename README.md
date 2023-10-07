@@ -47,10 +47,12 @@ Kaggle Link: https://www.kaggle.com/code/merishnasuwal/merge-churn-analysis-data
 ## Run the Code
 
 Execute the code in a Jupyter Notebook or your preferred Python environment.
+
 Customization: Customize the code as needed for your specific analysis, such as modifying model hyperparameters, adding more visualizations, or changing the feature sensitivity analysis.
+
 Interpret Results: Analyze the model performance metrics, gradient analysis, and sensitivity analysis to draw insights about customer churn in your insurance dataset.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 Feel free to adapt and expand upon this code to suit your specific analysis requirements.
