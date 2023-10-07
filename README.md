@@ -1,6 +1,6 @@
 Insurance Customer Retention Analysis
 
-This code performs customer retention analysis using a dataset from Kaggle, which is available at https://www.kaggle.com/code/merishnasuwal/merge-churn-analysis-data-for-auto- insurance/input. Customer retention analysis is essential for insurance companies to understand and predict customer behavior.
+This code performs customer retention analysis using a dataset from Kaggle, which is available at https://www.kaggle.com/code/merishnasuwal/merge-churn-analysis-data-for-auto-insurance/input. Customer retention analysis is essential for insurance companies to understand and predict customer behavior.
 
 **Overview**
 
