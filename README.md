@@ -1,14 +1,16 @@
 # Insurance Customer Retention Analysis
 
-This code performs customer retention analysis using a dataset from Kaggle, which is available at https://www.kaggle.com/code/merishnasuwal/merge-churn-analysis-data-for-auto-insurance/input. Customer retention analysis is essential for insurance companies to understand and predict customer behavior.
+Insurance industry is highly dependent on data to run the business since many of its day- to-day functions like product pricing, underwriting, claim etc. are all data driven. Just like any other industry, customer acquisition and retention are two key aspects of insurance industry too. Given that, customer acquisition cost is high in terms of agent commissions, direct-to-customer capital investments, it is important to focus on customer retention to offset the acquisition cost and be profitable in longer term. As part of this project, a predictive engine will be built and trained using available insurance policy data which can predict the customer churn probability based on other customers with similar profile.
+
+This code performs customer retention analysis using a dataset from Kaggle, which is available at https://www.kaggle.com/code/merishnasuwal/merge-churn-analysis-data-for-auto-insurance/input.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+  - [Dataset](#dataset)
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
@@ -26,7 +28,7 @@ Deep Learning Model: A deep neural network model is implemented using TensorFlow
 Gradient Analysis: Gradient analysis is performed to understand the impact of individual features on model predictions. This helps identify influential features.
 Feature Sensitivity Analysis: The code analyzes how changes in specific feature values affect predictions, allowing for sensitivity analysis.
 
-**How to Use**
+## Getting Started
 
 ### Prerequisites
 
